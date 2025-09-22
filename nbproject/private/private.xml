@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/model/Venda.java</file>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/application/Main.java</file>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/model/ItemVenda.java</file>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/controller/VendaController.java</file>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/dao/impl/VendaDAO.java</file>
+            <file>file:/C:/Users/Dagberto/OneDrive/curso_tecnico/UC15-M2_PI/LojaFacil-Core/src/br/com/lojafacil/dao/interfaces/IVendaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
